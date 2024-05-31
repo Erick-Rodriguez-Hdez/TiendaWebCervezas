@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick\\Desktop\\tareas lab prog 4\\TiendaWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57674A4E-61AE-4B60-9A21-3E880D113058}|TiendaWeb\\TiendaWeb.csproj|c:\\users\\erick\\desktop\\tareas lab prog 4\\tiendaweb\\tiendaweb\\areas\\admin\\views\\cervezas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57674A4E-61AE-4B60-9A21-3E880D113058}|TiendaWeb\\TiendaWeb.csproj|solutionrelative:tiendaweb\\areas\\admin\\views\\cervezas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\erick\\Desktop\\tareas lab prog 4\\TiendaWeb\\TiendaWeb\\Areas\\Admin\\Views\\Cervezas\\Details.cshtml",
+              "RelativeDocumentMoniker": "TiendaWeb\\Areas\\Admin\\Views\\Cervezas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\erick\\Desktop\\tareas lab prog 4\\TiendaWeb\\TiendaWeb\\Areas\\Admin\\Views\\Cervezas\\Details.cshtml",
+              "RelativeToolTip": "TiendaWeb\\Areas\\Admin\\Views\\Cervezas\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T21:33:39.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
